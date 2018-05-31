@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:demo-UICollectionView-coverflow&#x6548;&#x679c;1/demo-UICollectionView-coverflow&#x6548;&#x679c;1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:demo-&#x666e;&#x901a;&#x52a8;&#x753b;/demo-&#x666e;&#x901a;&#x52a8;&#x753b;.xcodeproj">
+   </FileRef>
+</Workspace>
